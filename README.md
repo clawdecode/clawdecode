@@ -25,6 +25,10 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://feds.lat/claude-code.gif" width="30" height="30" style="vertical-align: -5px;" title="Claude Code" alt="Claude Code" />
     &nbsp;&nbsp;&nbsp;
+    <a href="https://feds.lat/discord" title="Discord Community">
+      <img src="https://cdn.simpleicons.org/discord/5865F2" width="28" height="28" style="vertical-align: -4px;" title="Anthropic Discord" alt="Discord" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="28" height="28" style="vertical-align: -4px;" title="C++" alt="C++" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/c/A8B9CC" width="28" height="28" style="vertical-align: -4px;" title="C" alt="C" />
@@ -39,6 +43,5 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clawdecode&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=d87656&text_color=c9d1d9&icon_color=d87656&border_color=30363d&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clawdecode&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=d87656&text_color=c9d1d9&border_color=30363d" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clawdecode&theme=tokyonight&background=0d1117&border=30363d&stroke=d87656&ring=d87656&fire=d87656&currStreakLabel=d87656" height="165" alt="GitHub Streak Stats" />
 </div>
